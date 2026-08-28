@@ -1,6 +1,6 @@
 # iot-exemplo-repositorio
 
-Discente: Ícaro Caldeira Botelho
+Discente: Arthur Palm Tomazia
 
 Docente: Amanda Paul Dull
 
